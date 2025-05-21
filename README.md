@@ -1,0 +1,2 @@
+# SubarcticWildfireSeverity
+SubarcticWildfireSeverity
