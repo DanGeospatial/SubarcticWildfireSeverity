@@ -11,5 +11,7 @@ authors:
     given-names: "G.W.K."
     orcid: "https://orcid.org/0000-0002-3986-5605"
 title: "Code Supplement: Driver Analysis of Subarctic Wildfire Severity over a 35-year Period"
+version: 1.0.0
+doi: 10.5281/zenodo.15485182
 date-released: 2025-05-21
 url: "https://github.com/DanGeospatial/SubarcticWildfireSeverity"
